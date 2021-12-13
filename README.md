@@ -1,7 +1,8 @@
-<div align="center">
+<div align="center" display-flex>
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
 <p>Hi, I'm Devangga Kertawijaya, I'm a Web Developer. Check <a href="#">ℹ️</a> For More Information.</p>
+[![DevaK25 GitHub stats](https://github-readme-stats.vercel.app/api?username=DevaK25)](https://github.com/DevaK25/github-readme-stats)
 
 </div>
 
