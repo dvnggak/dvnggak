@@ -1,7 +1,8 @@
 <div align="center" display-flex>
 <h3>Hi there 👋,</h3>
-<p>Welcome to My Profile</p>
-<p>Hi, I'm Devangga Kertawijaya, I'm a Web Developer. Check <a href="#">ℹ️</a> For More Information.</p>
+ <br/>
+<p>Welcome to My Profile</p><br/>
+<p>Hi, I'm Devangga Kertawijaya, I'm a Web Developer. <br/>Check <a href="#">ℹ️</a> For More Information.</p>
 </div>
 
 - 🔭 I’m currently working on Developing a Website for company landing page
