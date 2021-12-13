@@ -2,8 +2,6 @@
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
 <p>Hi, I'm Devangga Kertawijaya, I'm a Web Developer. Check <a href="#">ℹ️</a> For More Information.</p>
-[![DevaK25 GitHub stats](https://github-readme-stats.vercel.app/api?username=DevaK25)](https://github.com/DevaK25/github-readme-stats)
-
 </div>
 
 - 🔭 I’m currently working on Developing a Website for company landing page
@@ -12,6 +10,9 @@
 - 💬 Ask me about anything in my social media linked in my profile
 - ⚡ Fun fact: im an silly guy 
 -->
+
+[![DevaK25 GitHub stats](https://github-readme-stats.vercel.app/api?username=DevaK25)](https://github.com/DevaK25/github-readme-stats)
+
 
 #### Languages:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
