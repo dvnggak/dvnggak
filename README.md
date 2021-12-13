@@ -11,7 +11,7 @@
 - ⚡ Fun fact: im an silly guy 
 -->
 
-[![DevaK25 GitHub stats](https://github-readme-stats.vercel.app/api?username=DevaK25)](https://github.com/DevaK25/github-readme-stats)
+[![DevaK25 GitHub stats](https://github-readme-stats.vercel.app/api?username=DevaK25&show_icons=true&theme=tokyonight)](https://github.com/DevaK25/github-readme-stats)
 
 
 #### Languages:
