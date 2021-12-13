@@ -1,6 +1,5 @@
 <div align="center" display-flex>
 <h3>Hi there 👋,</h3>
- <br/>
 <p>Welcome to My Profile</p><br/>
 <p>Hi, I'm Devangga Kertawijaya, I'm a Web Developer. <br/>Check <a href="#">ℹ️</a> For More Information.</p>
 </div>
