@@ -4,7 +4,6 @@
 <p>Hi, I'm Devangga Kertawijaya, I'm a Web Developer. <br/>Check <a href="#">ℹ️</a> For More Information.</p>
 </div>
 
-- 🔭 I’m currently working on Developing a Website for company landing page
 - 🌱 I’m currently learning Express Js for my path to become a FullStack Javascript this years
 - 👯 I’m looking to collaborate on more projects
 - 💬 Ask me about anything in my social media linked in my profile
@@ -15,7 +14,6 @@
 
 
 #### Languages:
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
