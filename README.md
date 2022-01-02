@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on more projects
 - 💬 Ask me about anything in my social media linked in my profile
 - ⚡ Fun fact: im an silly guy 
--->
 
 [![DevaK25 GitHub stats](https://github-readme-stats.vercel.app/api?username=dvnggak&show_icons=true&theme=tokyonight)](https://github.com/dvnggak/github-readme-stats)
 
